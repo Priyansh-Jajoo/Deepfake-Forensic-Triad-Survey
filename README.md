@@ -22,5 +22,4 @@ We categorized 40+ seminal papers (2023-2025) into three evolutionary tiers:
 
 ## 📂 Repository Contents
 - `/taxonomy`: Structured CSV/Markdown of all 40+ reviewed papers.
-- `/figures`: High-resolution versions of the Forensic Triad and Taxonomy diagrams.
-- `paper_list.bib`: BibTeX file for all surveyed literature.
+- `surveyed_literature.bib`: BibTeX file for all surveyed literature.
