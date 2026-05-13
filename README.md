@@ -22,4 +22,4 @@ We categorized 40+ seminal papers (2023-2025) into three evolutionary tiers:
 
 ## 📂 Repository Contents
 - `/taxonomy`: Structured CSV/Markdown of all 40+ reviewed papers.
-- `surveyed_literature.bib`: BibTeX file for all surveyed literature.
+- `/taxonomy/surveyed_literature.bib`: BibTeX file for all surveyed literature.
